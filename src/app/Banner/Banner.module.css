@@ -1,0 +1,48 @@
+.banner{
+    display: flex;
+    align-items: center;
+    
+}
+
+.imagem{
+    margin-top: 75px;
+    width: 50%;
+    height: 80vh;
+}
+
+.titulo  {
+   color:blueviolet;
+   display: flex;
+  flex-direction: column; 
+  gap: 20px;
+  width: 50%;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.tamanho_fonte{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.tamanho_fonte_span{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.lua {
+    background-color: black;
+    color: white;
+    
+    
+}
+
+.titulo-branco{
+    background-color: white;
+}
+
+
+
+
+

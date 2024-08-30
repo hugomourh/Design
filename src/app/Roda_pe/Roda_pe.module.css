@@ -1,0 +1,31 @@
+.bloco_imagem{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 45px;
+   
+}
+
+.imagem{
+    height: 50px;
+    width: 50px;
+    margin-left: 15px;
+    
+}
+
+.roda_pe{
+     
+    text-align: center;
+    padding-top: 80px;
+  
+}
+
+.roda_pe_descricao{
+    margin-top: 45px;
+    margin-bottom: 70px;
+
+}
+
+.lua{
+    background-color: black;
+    color: white;
+}
